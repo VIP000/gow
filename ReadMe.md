@@ -59,3 +59,4 @@ Please submit feedback via the
 Thank you for trying Gow!
 
 Copyright (c) 2006 - 2014 Brent R. Matzelle
+
